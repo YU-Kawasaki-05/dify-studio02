@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dify Chatbot</title>
+    <script>
+        window.difyChatbotConfig = {
+            token: 't3EOW7vifYd5oCuB'
+        };
+    </script>
+    <script src="https://udify.app/embed.min.js" defer></script>
+    <style>
+        #dify-chatbot-bubble-button {
+            background-color: #1C64F2 !important;
+        }
+        #dify-chatbot-bubble-window {
+            width: 24rem !important;
+            height: 40rem !important;
+        }
+    </style>
+</head>
+<body>
+</body>
+</html>
